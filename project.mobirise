@@ -194,7 +194,7 @@
           },
           "title": "Pluto Music",
           "text": "A Mix of Freshly Curated&nbsp;Mixtapes and Original Content",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LISTEN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"PlutoRadiohtml\" data-toolbar=\"-mbrBtnMove\">LIVE STREAMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"PlutoRadiohtml\" data-toolbar=\"-mbrBtnMove\">PLUTO RADIO</a>  "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://itunes.apple.com/profile/plutomusic\" data-toolbar=\"-mbrBtnMove\">LISTEN</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"PlutoRadiohtml\" data-toolbar=\"-mbrBtnMove\">LIVE STREAMS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"PlutoRadiohtml\" data-toolbar=\"-mbrBtnMove\">PLUTO RADIO</a>  "
         }
       ]
     },
@@ -298,20 +298,20 @@
             "Theme"
           ],
           "_name": "content2",
-          "_anchor": "content2-e",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<blockquote>BIG TOE and his squad are in the studio working on the summer mixtape. &nbsp;Check back frequently for updates on when it will drop.</blockquote>",
           "_styles": {
             "BLOCKQUOTE": {
               "font-family": "'Lato', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
               "font-size": "22px"
             }
-          }
+          },
+          "_anchor": "content2-e",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote>BIG TOE and his squad are in the studio working on the summer mixtape. &nbsp;Check back frequently for updates on when it will drop.</blockquote>"
         }
       ]
     }
